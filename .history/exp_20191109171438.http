@@ -1,0 +1,12 @@
+POST http://localhost:3000 HTTP/1.1
+content-type: application/json
+
+{
+    "id": "id1",
+    "password": "1111",
+    "name": "name1"
+}
+
+###
+
+GET url HTTP/1.1

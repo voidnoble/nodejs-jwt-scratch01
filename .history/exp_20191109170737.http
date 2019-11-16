@@ -1,0 +1,8 @@
+POST http://localhost HTTP/1.1
+content-type: application/json
+
+{
+    "id": "id1",
+    "password": "1111",
+    "name": "name1"
+}
